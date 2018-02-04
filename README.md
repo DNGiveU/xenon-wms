@@ -2,6 +2,9 @@
 
 ## 仓库管理系统beta版
 
+需要开发版本,可以拉取 dev 分支
+
+
 #安装
 	
 	localhost/install.php
