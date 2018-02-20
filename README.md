@@ -4,7 +4,7 @@
 
 ## 需要开发版本,可以拉取 dev 分支
 
-	https://github.com/bool1993/xenon-wms/tree/dev
+https://github.com/bool1993/xenon-wms/tree/dev
 
 
 #安装
