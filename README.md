@@ -7,16 +7,16 @@
 https://github.com/bool1993/xenon-wms/tree/dev
 
 
-#安装
+## 安装
 	
 	localhost/install.php
 
-#安装框架核心 vendor
+## 安装框架核心 vendor
 
 	composer install
 
 
-css js下载
+## css js下载
 
 https://share.weiyun.com/2759bf54943180687fe63cb9a28d98f7
 
