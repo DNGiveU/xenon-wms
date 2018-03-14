@@ -7,7 +7,7 @@
 
 http://bool.yk.0zj.pw/index.php
 
-admin/admin bool/admin
+账号： admin/admin   bool/admin
 
 
 ## 需要开发版本,可以拉取 dev 分支
