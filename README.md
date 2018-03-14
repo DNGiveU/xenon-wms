@@ -7,7 +7,6 @@
 
 http://bool.yk.0zj.pw/index.php
 
-# 账号
 admin/admin bool/admin
 
 
