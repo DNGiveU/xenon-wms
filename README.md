@@ -3,10 +3,12 @@
 ## 仓库管理系统beta版
 
 
-## 在线地址 admin/admin bool/admin
+## 在线地址 
 
 http://bool.yk.0zj.pw/index.php
 
+# 账号
+admin/admin bool/admin
 
 
 ## 需要开发版本,可以拉取 dev 分支
