@@ -2,6 +2,13 @@
 
 ## 仓库管理系统beta版
 
+
+## 在线地址 admin/admin bool/admin
+
+http://bool.yk.0zj.pw/index.php
+
+
+
 ## 需要开发版本,可以拉取 dev 分支
 
 https://github.com/bool1993/xenon-wms/tree/dev
